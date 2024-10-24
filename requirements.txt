@@ -1,0 +1,8 @@
+opencv-python
+fer
+spotipy
+speechrecognition
+textblob
+pillow
+tkinter
+pytest
