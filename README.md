@@ -1,5 +1,5 @@
 # EmoTune
-#### Video Demo:  <https://youtu.be/0t7vzouKhOk>
+[comment]: #### Video Demo:  <https://youtu.be/0t7vzouKhOk>
 
 ## Description
 EmoTune is an innovative emotion-based music player that enhances your listening experience by suggesting playlists tailored to your current mood. The application utilizes advanced emotion recognition technology to analyze your facial expressions and voice to detect your emotional state.
